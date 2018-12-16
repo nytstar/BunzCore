@@ -7,9 +7,557 @@
 		
 		
 		
+<!-- periodicTable -->
 		
 		
-		
+<item name="ptHydrogen">
+	<property name="HoldType" value="45"/>
+	<property name="Meshfile" value="Items/Misc/sackPrefab"/>
+	<property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+	<property name="Material" value="Mclay"/>
+	<property name="Weight" value="5"/>
+	<property name="CustomIcon" value="templateTexture"/> <property name="CustomIconTint" value="ffa0a0"/>
+	<property name="Stacknumber" value="6000"/> <!-- STK resource -->
+	<property name="EconomicValue" value="6"/>
+	<property name="EconomicBundleSize" value="150"/>
+	<property name="Group" value="Resources"/>
+	<property name="CraftingIngredientTime" value="0.5"/>
+</item>	
+		<item name="ptHelium">
+	<property name="HoldType" value="45"/>
+	<property name="Meshfile" value="Items/Misc/sackPrefab"/>
+	<property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+	<property name="Material" value="Mclay"/>
+	<property name="Weight" value="5"/>
+	<property name="CustomIcon" value="templateTexture"/> <property name="CustomIconTint" value="ffa0a0"/>
+	<property name="Stacknumber" value="6000"/> <!-- STK resource -->
+	<property name="EconomicValue" value="6"/>
+	<property name="EconomicBundleSize" value="150"/>
+	<property name="Group" value="Resources"/>
+	<property name="CraftingIngredientTime" value="0.5"/>
+</item>	
+		<item name="ptLithium">
+	<property name="HoldType" value="45"/>
+	<property name="Meshfile" value="Items/Misc/sackPrefab"/>
+	<property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+	<property name="Material" value="Mclay"/>
+	<property name="Weight" value="5"/>
+	<property name="CustomIcon" value="templateTexture"/> <property name="CustomIconTint" value="ffa0a0"/>
+	<property name="Stacknumber" value="6000"/> <!-- STK resource -->
+	<property name="EconomicValue" value="6"/>
+	<property name="EconomicBundleSize" value="150"/>
+	<property name="Group" value="Resources"/>
+	<property name="CraftingIngredientTime" value="0.5"/>
+</item>	
+		<item name="ptBerrylium">
+	<property name="HoldType" value="45"/>
+	<property name="Meshfile" value="Items/Misc/sackPrefab"/>
+	<property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+	<property name="Material" value="Mclay"/>
+	<property name="Weight" value="5"/>
+	<property name="CustomIcon" value="templateTexture"/> <property name="CustomIconTint" value="ffa0a0"/>
+	<property name="Stacknumber" value="6000"/> <!-- STK resource -->
+	<property name="EconomicValue" value="6"/>
+	<property name="EconomicBundleSize" value="150"/>
+	<property name="Group" value="Resources"/>
+	<property name="CraftingIngredientTime" value="0.5"/>
+</item>	
+		<item name="ptBoron">
+	<property name="HoldType" value="45"/>
+	<property name="Meshfile" value="Items/Misc/sackPrefab"/>
+	<property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+	<property name="Material" value="Mclay"/>
+	<property name="Weight" value="5"/>
+	<property name="CustomIcon" value="templateTexture"/> <property name="CustomIconTint" value="ffa0a0"/>
+	<property name="Stacknumber" value="6000"/> <!-- STK resource -->
+	<property name="EconomicValue" value="6"/>
+	<property name="EconomicBundleSize" value="150"/>
+	<property name="Group" value="Resources"/>
+	<property name="CraftingIngredientTime" value="0.5"/>
+</item>	
+		<item name="ptCarbon">
+	<property name="HoldType" value="45"/>
+	<property name="Meshfile" value="Items/Misc/sackPrefab"/>
+	<property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+	<property name="Material" value="Mclay"/>
+	<property name="Weight" value="5"/>
+	<property name="CustomIcon" value="templateTexture"/> <property name="CustomIconTint" value="ffa0a0"/>
+	<property name="Stacknumber" value="6000"/> <!-- STK resource -->
+	<property name="EconomicValue" value="6"/>
+	<property name="EconomicBundleSize" value="150"/>
+	<property name="Group" value="Resources"/>
+	<property name="CraftingIngredientTime" value="0.5"/>
+</item>	
+		<item name="ptNitrogen">
+	<property name="HoldType" value="45"/>
+	<property name="Meshfile" value="Items/Misc/sackPrefab"/>
+	<property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+	<property name="Material" value="Mclay"/>
+	<property name="Weight" value="5"/>
+	<property name="CustomIcon" value="templateTexture"/> <property name="CustomIconTint" value="ffa0a0"/>
+	<property name="Stacknumber" value="6000"/> <!-- STK resource -->
+	<property name="EconomicValue" value="6"/>
+	<property name="EconomicBundleSize" value="150"/>
+	<property name="Group" value="Resources"/>
+	<property name="CraftingIngredientTime" value="0.5"/>
+</item>	
+		<item name="ptOxygen">
+	<property name="HoldType" value="45"/>
+	<property name="Meshfile" value="Items/Misc/sackPrefab"/>
+	<property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+	<property name="Material" value="Mclay"/>
+	<property name="Weight" value="5"/>
+	<property name="CustomIcon" value="templateTexture"/> <property name="CustomIconTint" value="ffa0a0"/>
+	<property name="Stacknumber" value="6000"/> <!-- STK resource -->
+	<property name="EconomicValue" value="6"/>
+	<property name="EconomicBundleSize" value="150"/>
+	<property name="Group" value="Resources"/>
+	<property name="CraftingIngredientTime" value="0.5"/>
+</item>
+		<item name="ptFlorine">
+	<property name="HoldType" value="45"/>
+	<property name="Meshfile" value="Items/Misc/sackPrefab"/>
+	<property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+	<property name="Material" value="Mclay"/>
+	<property name="Weight" value="5"/>
+	<property name="CustomIcon" value="templateTexture"/> <property name="CustomIconTint" value="ffa0a0"/>
+	<property name="Stacknumber" value="6000"/> <!-- STK resource -->
+	<property name="EconomicValue" value="6"/>
+	<property name="EconomicBundleSize" value="150"/>
+	<property name="Group" value="Resources"/>
+	<property name="CraftingIngredientTime" value="0.5"/>
+</item>	
+		<item name="ptNeon">
+	<property name="HoldType" value="45"/>
+	<property name="Meshfile" value="Items/Misc/sackPrefab"/>
+	<property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+	<property name="Material" value="Mclay"/>
+	<property name="Weight" value="5"/>
+	<property name="CustomIcon" value="templateTexture"/> <property name="CustomIconTint" value="ffa0a0"/>
+	<property name="Stacknumber" value="6000"/> <!-- STK resource -->
+	<property name="EconomicValue" value="6"/>
+	<property name="EconomicBundleSize" value="150"/>
+	<property name="Group" value="Resources"/>
+	<property name="CraftingIngredientTime" value="0.5"/>
+</item>	
+		<item name="ptSodium">
+	<property name="HoldType" value="45"/>
+	<property name="Meshfile" value="Items/Misc/sackPrefab"/>
+	<property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+	<property name="Material" value="Mclay"/>
+	<property name="Weight" value="5"/>
+	<property name="CustomIcon" value="templateTexture"/> <property name="CustomIconTint" value="ffa0a0"/>
+	<property name="Stacknumber" value="6000"/> <!-- STK resource -->
+	<property name="EconomicValue" value="6"/>
+	<property name="EconomicBundleSize" value="150"/>
+	<property name="Group" value="Resources"/>
+	<property name="CraftingIngredientTime" value="0.5"/>
+</item>	
+		<item name="ptMagnesium">
+	<property name="HoldType" value="45"/>
+	<property name="Meshfile" value="Items/Misc/sackPrefab"/>
+	<property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+	<property name="Material" value="Mclay"/>
+	<property name="Weight" value="5"/>
+	<property name="CustomIcon" value="templateTexture"/> <property name="CustomIconTint" value="ffa0a0"/>
+	<property name="Stacknumber" value="6000"/> <!-- STK resource -->
+	<property name="EconomicValue" value="6"/>
+	<property name="EconomicBundleSize" value="150"/>
+	<property name="Group" value="Resources"/>
+	<property name="CraftingIngredientTime" value="0.5"/>
+</item>	
+			<item name="ptAlluminium">
+	<property name="HoldType" value="45"/>
+	<property name="Meshfile" value="Items/Misc/sackPrefab"/>
+	<property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+	<property name="Material" value="Mclay"/>
+	<property name="Weight" value="5"/>
+	<property name="CustomIcon" value="templateTexture"/> <property name="CustomIconTint" value="ffa0a0"/>
+	<property name="Stacknumber" value="6000"/> <!-- STK resource -->
+	<property name="EconomicValue" value="6"/>
+	<property name="EconomicBundleSize" value="150"/>
+	<property name="Group" value="Resources"/>
+	<property name="CraftingIngredientTime" value="0.5"/>
+</item>	
+			<item name="ptSilicon">
+	<property name="HoldType" value="45"/>
+	<property name="Meshfile" value="Items/Misc/sackPrefab"/>
+	<property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+	<property name="Material" value="Mclay"/>
+	<property name="Weight" value="5"/>
+	<property name="CustomIcon" value="templateTexture"/> <property name="CustomIconTint" value="ffa0a0"/>
+	<property name="Stacknumber" value="6000"/> <!-- STK resource -->
+	<property name="EconomicValue" value="6"/>
+	<property name="EconomicBundleSize" value="150"/>
+	<property name="Group" value="Resources"/>
+	<property name="CraftingIngredientTime" value="0.5"/>
+</item>	
+			<item name="ptPhosphorus">
+	<property name="HoldType" value="45"/>
+	<property name="Meshfile" value="Items/Misc/sackPrefab"/>
+	<property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+	<property name="Material" value="Mclay"/>
+	<property name="Weight" value="5"/>
+	<property name="CustomIcon" value="templateTexture"/> <property name="CustomIconTint" value="ffa0a0"/>
+	<property name="Stacknumber" value="6000"/> <!-- STK resource -->
+	<property name="EconomicValue" value="6"/>
+	<property name="EconomicBundleSize" value="150"/>
+	<property name="Group" value="Resources"/>
+	<property name="CraftingIngredientTime" value="0.5"/>
+</item>	
+			<item name="ptSulfur">
+	<property name="HoldType" value="45"/>
+	<property name="Meshfile" value="Items/Misc/sackPrefab"/>
+	<property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+	<property name="Material" value="Mclay"/>
+	<property name="Weight" value="5"/>
+	<property name="CustomIcon" value="templateTexture"/> <property name="CustomIconTint" value="ffa0a0"/>
+	<property name="Stacknumber" value="6000"/> <!-- STK resource -->
+	<property name="EconomicValue" value="6"/>
+	<property name="EconomicBundleSize" value="150"/>
+	<property name="Group" value="Resources"/>
+	<property name="CraftingIngredientTime" value="0.5"/>
+</item>	
+			<item name="ptChlorine">
+	<property name="HoldType" value="45"/>
+	<property name="Meshfile" value="Items/Misc/sackPrefab"/>
+	<property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+	<property name="Material" value="Mclay"/>
+	<property name="Weight" value="5"/>
+	<property name="CustomIcon" value="templateTexture"/> <property name="CustomIconTint" value="ffa0a0"/>
+	<property name="Stacknumber" value="6000"/> <!-- STK resource -->
+	<property name="EconomicValue" value="6"/>
+	<property name="EconomicBundleSize" value="150"/>
+	<property name="Group" value="Resources"/>
+	<property name="CraftingIngredientTime" value="0.5"/>
+</item>	
+			<item name="ptArgon">
+	<property name="HoldType" value="45"/>
+	<property name="Meshfile" value="Items/Misc/sackPrefab"/>
+	<property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+	<property name="Material" value="Mclay"/>
+	<property name="Weight" value="5"/>
+	<property name="CustomIcon" value="templateTexture"/> <property name="CustomIconTint" value="ffa0a0"/>
+	<property name="Stacknumber" value="6000"/> <!-- STK resource -->
+	<property name="EconomicValue" value="6"/>
+	<property name="EconomicBundleSize" value="150"/>
+	<property name="Group" value="Resources"/>
+	<property name="CraftingIngredientTime" value="0.5"/>
+</item>
+			<item name="ptPotassium">
+	<property name="HoldType" value="45"/>
+	<property name="Meshfile" value="Items/Misc/sackPrefab"/>
+	<property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+	<property name="Material" value="Mclay"/>
+	<property name="Weight" value="5"/>
+	<property name="CustomIcon" value="templateTexture"/> <property name="CustomIconTint" value="ffa0a0"/>
+	<property name="Stacknumber" value="6000"/> <!-- STK resource -->
+	<property name="EconomicValue" value="6"/>
+	<property name="EconomicBundleSize" value="150"/>
+	<property name="Group" value="Resources"/>
+	<property name="CraftingIngredientTime" value="0.5"/>
+</item>	
+			<item name="ptCalcium">
+	<property name="HoldType" value="45"/>
+	<property name="Meshfile" value="Items/Misc/sackPrefab"/>
+	<property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+	<property name="Material" value="Mclay"/>
+	<property name="Weight" value="5"/>
+	<property name="CustomIcon" value="templateTexture"/> <property name="CustomIconTint" value="ffa0a0"/>
+	<property name="Stacknumber" value="6000"/> <!-- STK resource -->
+	<property name="EconomicValue" value="6"/>
+	<property name="EconomicBundleSize" value="150"/>
+	<property name="Group" value="Resources"/>
+	<property name="CraftingIngredientTime" value="0.5"/>
+</item>	
+			<item name="ptTitanium">
+	<property name="HoldType" value="45"/>
+	<property name="Meshfile" value="Items/Misc/sackPrefab"/>
+	<property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+	<property name="Material" value="Mclay"/>
+	<property name="Weight" value="5"/>
+	<property name="CustomIcon" value="templateTexture"/> <property name="CustomIconTint" value="ffa0a0"/>
+	<property name="Stacknumber" value="6000"/> <!-- STK resource -->
+	<property name="EconomicValue" value="6"/>
+	<property name="EconomicBundleSize" value="150"/>
+	<property name="Group" value="Resources"/>
+	<property name="CraftingIngredientTime" value="0.5"/>
+</item>	
+			<item name="ptChromium">
+	<property name="HoldType" value="45"/>
+	<property name="Meshfile" value="Items/Misc/sackPrefab"/>
+	<property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+	<property name="Material" value="Mclay"/>
+	<property name="Weight" value="5"/>
+	<property name="CustomIcon" value="templateTexture"/> <property name="CustomIconTint" value="ffa0a0"/>
+	<property name="Stacknumber" value="6000"/> <!-- STK resource -->
+	<property name="EconomicValue" value="6"/>
+	<property name="EconomicBundleSize" value="150"/>
+	<property name="Group" value="Resources"/>
+	<property name="CraftingIngredientTime" value="0.5"/>
+</item>	
+			<item name="ptCobalt">
+	<property name="HoldType" value="45"/>
+	<property name="Meshfile" value="Items/Misc/sackPrefab"/>
+	<property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+	<property name="Material" value="Mclay"/>
+	<property name="Weight" value="5"/>
+	<property name="CustomIcon" value="templateTexture"/> <property name="CustomIconTint" value="ffa0a0"/>
+	<property name="Stacknumber" value="6000"/> <!-- STK resource -->
+	<property name="EconomicValue" value="6"/>
+	<property name="EconomicBundleSize" value="150"/>
+	<property name="Group" value="Resources"/>
+	<property name="CraftingIngredientTime" value="0.5"/>
+</item>	
+			<item name="ptNickel">
+	<property name="HoldType" value="45"/>
+	<property name="Meshfile" value="Items/Misc/sackPrefab"/>
+	<property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+	<property name="Material" value="Mclay"/>
+	<property name="Weight" value="5"/>
+	<property name="CustomIcon" value="templateTexture"/> <property name="CustomIconTint" value="ffa0a0"/>
+	<property name="Stacknumber" value="6000"/> <!-- STK resource -->
+	<property name="EconomicValue" value="6"/>
+	<property name="EconomicBundleSize" value="150"/>
+	<property name="Group" value="Resources"/>
+	<property name="CraftingIngredientTime" value="0.5"/>
+</item>	
+			<item name="ptCopper">
+	<property name="HoldType" value="45"/>
+	<property name="Meshfile" value="Items/Misc/sackPrefab"/>
+	<property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+	<property name="Material" value="Mclay"/>
+	<property name="Weight" value="5"/>
+	<property name="CustomIcon" value="templateTexture"/> <property name="CustomIconTint" value="ffa0a0"/>
+	<property name="Stacknumber" value="6000"/> <!-- STK resource -->
+	<property name="EconomicValue" value="6"/>
+	<property name="EconomicBundleSize" value="150"/>
+	<property name="Group" value="Resources"/>
+	<property name="CraftingIngredientTime" value="0.5"/>
+</item>	
+			<item name="ptZinc">
+	<property name="HoldType" value="45"/>
+	<property name="Meshfile" value="Items/Misc/sackPrefab"/>
+	<property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+	<property name="Material" value="Mclay"/>
+	<property name="Weight" value="5"/>
+	<property name="CustomIcon" value="templateTexture"/> <property name="CustomIconTint" value="ffa0a0"/>
+	<property name="Stacknumber" value="6000"/> <!-- STK resource -->
+	<property name="EconomicValue" value="6"/>
+	<property name="EconomicBundleSize" value="150"/>
+	<property name="Group" value="Resources"/>
+	<property name="CraftingIngredientTime" value="0.5"/>
+</item>	
+			<item name="ptArsenic">
+	<property name="HoldType" value="45"/>
+	<property name="Meshfile" value="Items/Misc/sackPrefab"/>
+	<property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+	<property name="Material" value="Mclay"/>
+	<property name="Weight" value="5"/>
+	<property name="CustomIcon" value="templateTexture"/> <property name="CustomIconTint" value="ffa0a0"/>
+	<property name="Stacknumber" value="6000"/> <!-- STK resource -->
+	<property name="EconomicValue" value="6"/>
+	<property name="EconomicBundleSize" value="150"/>
+	<property name="Group" value="Resources"/>
+	<property name="CraftingIngredientTime" value="0.5"/>
+</item>	
+			<item name="ptKrypton">  <!-- SuperMan is not welcome in 7 Days -->
+	<property name="HoldType" value="45"/>
+	<property name="Meshfile" value="Items/Misc/sackPrefab"/>
+	<property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+	<property name="Material" value="Mclay"/>
+	<property name="Weight" value="5"/>
+	<property name="CustomIcon" value="templateTexture"/> <property name="CustomIconTint" value="ffa0a0"/>
+	<property name="Stacknumber" value="6000"/> <!-- STK resource -->
+	<property name="EconomicValue" value="6"/>
+	<property name="EconomicBundleSize" value="150"/>
+	<property name="Group" value="Resources"/>
+	<property name="CraftingIngredientTime" value="0.5"/>
+</item>	
+			<item name="ptZirconium">
+	<property name="HoldType" value="45"/>
+	<property name="Meshfile" value="Items/Misc/sackPrefab"/>
+	<property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+	<property name="Material" value="Mclay"/>
+	<property name="Weight" value="5"/>
+	<property name="CustomIcon" value="templateTexture"/> <property name="CustomIconTint" value="ffa0a0"/>
+	<property name="Stacknumber" value="6000"/> <!-- STK resource -->
+	<property name="EconomicValue" value="6"/>
+	<property name="EconomicBundleSize" value="150"/>
+	<property name="Group" value="Resources"/>
+	<property name="CraftingIngredientTime" value="0.5"/>
+</item>	
+			<item name="ptSilver">
+	<property name="HoldType" value="45"/>
+	<property name="Meshfile" value="Items/Misc/sackPrefab"/>
+	<property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+	<property name="Material" value="Mclay"/>
+	<property name="Weight" value="5"/>
+	<property name="CustomIcon" value="templateTexture"/> <property name="CustomIconTint" value="ffa0a0"/>
+	<property name="Stacknumber" value="6000"/> <!-- STK resource -->
+	<property name="EconomicValue" value="6"/>
+	<property name="EconomicBundleSize" value="150"/>
+	<property name="Group" value="Resources"/>
+	<property name="CraftingIngredientTime" value="0.5"/>
+</item>	
+			<item name="ptTin">
+	<property name="HoldType" value="45"/>
+	<property name="Meshfile" value="Items/Misc/sackPrefab"/>
+	<property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+	<property name="Material" value="Mclay"/>
+	<property name="Weight" value="5"/>
+	<property name="CustomIcon" value="templateTexture"/> <property name="CustomIconTint" value="ffa0a0"/>
+	<property name="Stacknumber" value="6000"/> <!-- STK resource -->
+	<property name="EconomicValue" value="6"/>
+	<property name="EconomicBundleSize" value="150"/>
+	<property name="Group" value="Resources"/>
+	<property name="CraftingIngredientTime" value="0.5"/>
+</item>	
+			<item name="ptIodine">
+	<property name="HoldType" value="45"/>
+	<property name="Meshfile" value="Items/Misc/sackPrefab"/>
+	<property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+	<property name="Material" value="Mclay"/>
+	<property name="Weight" value="5"/>
+	<property name="CustomIcon" value="templateTexture"/> <property name="CustomIconTint" value="ffa0a0"/>
+	<property name="Stacknumber" value="6000"/> <!-- STK resource -->
+	<property name="EconomicValue" value="6"/>
+	<property name="EconomicBundleSize" value="150"/>
+	<property name="Group" value="Resources"/>
+	<property name="CraftingIngredientTime" value="0.5"/>
+</item>	
+			<item name="ptXenon">
+	<property name="HoldType" value="45"/>
+	<property name="Meshfile" value="Items/Misc/sackPrefab"/>
+	<property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+	<property name="Material" value="Mclay"/>
+	<property name="Weight" value="5"/>
+	<property name="CustomIcon" value="templateTexture"/> <property name="CustomIconTint" value="ffa0a0"/>
+	<property name="Stacknumber" value="6000"/> <!-- STK resource -->
+	<property name="EconomicValue" value="6"/>
+	<property name="EconomicBundleSize" value="150"/>
+	<property name="Group" value="Resources"/>
+	<property name="CraftingIngredientTime" value="0.5"/>
+</item>	
+			<item name="ptIridium">
+	<property name="HoldType" value="45"/>
+	<property name="Meshfile" value="Items/Misc/sackPrefab"/>
+	<property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+	<property name="Material" value="Mclay"/>
+	<property name="Weight" value="5"/>
+	<property name="CustomIcon" value="templateTexture"/> <property name="CustomIconTint" value="ffa0a0"/>
+	<property name="Stacknumber" value="6000"/> <!-- STK resource -->
+	<property name="EconomicValue" value="6"/>
+	<property name="EconomicBundleSize" value="150"/>
+	<property name="Group" value="Resources"/>
+	<property name="CraftingIngredientTime" value="0.5"/>
+</item>	
+			<item name="ptPlatinum">
+	<property name="HoldType" value="45"/>
+	<property name="Meshfile" value="Items/Misc/sackPrefab"/>
+	<property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+	<property name="Material" value="Mclay"/>
+	<property name="Weight" value="5"/>
+	<property name="CustomIcon" value="templateTexture"/> <property name="CustomIconTint" value="ffa0a0"/>
+	<property name="Stacknumber" value="6000"/> <!-- STK resource -->
+	<property name="EconomicValue" value="6"/>
+	<property name="EconomicBundleSize" value="150"/>
+	<property name="Group" value="Resources"/>
+	<property name="CraftingIngredientTime" value="0.5"/>
+</item>	
+			<item name="ptGold">
+	<property name="HoldType" value="45"/>
+	<property name="Meshfile" value="Items/Misc/sackPrefab"/>
+	<property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+	<property name="Material" value="Mclay"/>
+	<property name="Weight" value="5"/>
+	<property name="CustomIcon" value="templateTexture"/> <property name="CustomIconTint" value="ffa0a0"/>
+	<property name="Stacknumber" value="6000"/> <!-- STK resource -->
+	<property name="EconomicValue" value="6"/>
+	<property name="EconomicBundleSize" value="150"/>
+	<property name="Group" value="Resources"/>
+	<property name="CraftingIngredientTime" value="0.5"/>
+</item>	
+			<item name="ptMercury">
+	<property name="HoldType" value="45"/>
+	<property name="Meshfile" value="Items/Misc/sackPrefab"/>
+	<property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+	<property name="Material" value="Mclay"/>
+	<property name="Weight" value="5"/>
+	<property name="CustomIcon" value="templateTexture"/> <property name="CustomIconTint" value="ffa0a0"/>
+	<property name="Stacknumber" value="6000"/> <!-- STK resource -->
+
+	<property name="EconomicValue" value="6"/>
+	<property name="EconomicBundleSize" value="150"/>
+	<property name="Group" value="Resources"/>
+	<property name="CraftingIngredientTime" value="0.5"/>
+</item>	
+			<item name="ptLead">
+	<property name="HoldType" value="45"/>
+	<property name="Meshfile" value="Items/Misc/sackPrefab"/>
+	<property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+	<property name="Material" value="Mclay"/>
+	<property name="Weight" value="5"/>
+	<property name="CustomIcon" value="templateTexture"/> <property name="CustomIconTint" value="ffa0a0"/>
+	<property name="Stacknumber" value="6000"/> <!-- STK resource -->
+	<property name="EconomicValue" value="6"/>
+	<property name="EconomicBundleSize" value="150"/>
+	<property name="Group" value="Resources"/>
+	<property name="CraftingIngredientTime" value="0.5"/>
+</item>	
+			<item name="ptBismuth">
+	<property name="HoldType" value="45"/>
+	<property name="Meshfile" value="Items/Misc/sackPrefab"/>
+	<property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+	<property name="Material" value="Mclay"/>
+	<property name="Weight" value="5"/>
+	<property name="CustomIcon" value="templateTexture"/> <property name="CustomIconTint" value="ffa0a0"/>
+	<property name="Stacknumber" value="6000"/> <!-- STK resource -->
+	<property name="EconomicValue" value="6"/>
+	<property name="EconomicBundleSize" value="150"/>
+	<property name="Group" value="Resources"/>
+	<property name="CraftingIngredientTime" value="0.5"/>
+</item>	
+			<item name="ptRadon">
+	<property name="HoldType" value="45"/>
+	<property name="Meshfile" value="Items/Misc/sackPrefab"/>
+	<property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+	<property name="Material" value="Mclay"/>
+	<property name="Weight" value="5"/>
+	<property name="CustomIcon" value="templateTexture"/> <property name="CustomIconTint" value="ffa0a0"/>
+	<property name="Stacknumber" value="6000"/> <!-- STK resource -->
+	<property name="EconomicValue" value="6"/>
+	<property name="EconomicBundleSize" value="150"/>
+	<property name="Group" value="Resources"/>
+	<property name="CraftingIngredientTime" value="0.5"/>
+</item>	
+			<item name="ptUranium">
+	<property name="HoldType" value="45"/>
+	<property name="Meshfile" value="Items/Misc/sackPrefab"/>
+	<property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+	<property name="Material" value="Mclay"/>
+	<property name="Weight" value="5"/>
+	<property name="CustomIcon" value="templateTexture"/> <property name="CustomIconTint" value="ffa0a0"/>
+	<property name="Stacknumber" value="6000"/> <!-- STK resource -->
+	<property name="EconomicValue" value="6"/>
+	<property name="EconomicBundleSize" value="150"/>
+	<property name="Group" value="Resources"/>
+	<property name="CraftingIngredientTime" value="0.5"/>
+</item>	
+			<item name="ptPlutonium">
+	<property name="HoldType" value="45"/>
+	<property name="Meshfile" value="Items/Misc/sackPrefab"/>
+	<property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab"/>
+	<property name="Material" value="Mclay"/>
+	<property name="Weight" value="5"/>
+	<property name="CustomIcon" value="templateTexture"/> <property name="CustomIconTint" value="ffa0a0"/>
+	<property name="Stacknumber" value="6000"/> <!-- STK resource -->
+	<property name="EconomicValue" value="6"/>
+	<property name="EconomicBundleSize" value="150"/>
+	<property name="Group" value="Resources"/>
+	<property name="CraftingIngredientTime" value="0.5"/>
+</item>	
+
 		
 		
 <!-- basicResources -->

@@ -11,15 +11,15 @@
 		<!-- Forge -->
 		
 		
-		
+	
  
 		
 
 		
 		<!-- Chemistry Recipes -->
-<recipe name="resourceSand" count="10" craft_area="chemistryStation">
- 	<ingredient name="resourceSilicon" count="5"/>
-	<ingredient name="resourceOxygen" count="5"/>
+<recipe name="ptHydrogen" count="10" craft_area="chemistryStation">
+ 	<ingredient name="" count="5"/>
+	
 </recipe>
 		
 <recipe name="resourceGlass" count="10" craft_area="chemistryStation">
