@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<configs>
+    <append xpath="/progression">	
+
+<perk name="perkHammerForge" parent="skillCraftsmanship" max_level="4" name_key="perkHammerForgeName" desc_key="perkHammerForgeDesc" icon="ui_game_symbol_forge">
+		<level_requirements level="1"><requirement name="ProgressionLevel" progression_name="attIntellect" operation="GTE" value="4" desc_key="reqIntellectLevel4"/></level_requirements>
+		<level_requirements level="2"><requirement name="ProgressionLevel" progression_name="attIntellect" operation="GTE" value="5" desc_key="reqIntellectLevel5"/></level_requirements>
+		<level_requirements level="3"><requirement name="ProgressionLevel" progression_name="attIntellect" operation="GTE" value="8" desc_key="reqIntellectLevel8"/></level_requirements>
+		<level_requirements level="4"><requirement name="ProgressionLevel" progression_name="attIntellect" operation="GTE" value="9" desc_key="reqIntellectLevel9"/></level_requirements>
+		<level_requirements level="5"><requirement name="ProgressionLevel" progression_name="attIntellect" operation="GTE" value="10" desc_key="reqIntellectLevel10"/></level_requirements>
+
+		<effect_group>
+			<passive_effect name="RecipeTagUnlocked" operation="base_set" value="1" level="1,5" tags="forge,meleeToolFireaxeIron,meleeToolPickaxeIron,meleeToolHoeIron,meleeToolShovelIron,meleeToolClawHammer,meleeToolSledgehammer,meleeToolHuntingKnife"/>
+			<passive_effect name="RecipeTagUnlocked" operation="base_set" value="1" level="2,5" tags="armorLeatherBoots,armorLeatherGloves,armorLeatherHood,armorLeatherChest,armorLeatherPants,armorIronBoots,armorIronChest,armorIronGloves,armorIronHelmet,armorIronLegs,"/>
+			<passive_effect name="RecipeTagUnlocked" operation="base_set" value="1" level="3,5" tags="toolForgeCrucible,meleeToolPickaxeSteel,meleeToolShovelSteel,meleeToolFireaxeSteel,meleeToolMachete"/>
+			<passive_effect name="RecipeTagUnlocked" operation="base_set" value="1" level="4" tags="armorMilitaryHelmet,armorMilitaryVest,armorMilitaryGloves,armorMilitaryLegs,armorMilitaryBoots,armorSteelBoots,armorSteelChest,armorSteelGloves,armorSteelHelmet,armorSteelLegs,"/>
+			<effect_description level="1" desc_key="perkHammerForgeRank1Desc"/>
+			<effect_description level="2" desc_key="perkHammerForgeRank2Desc"/>
+			<effect_description level="3" desc_key="perkHammerForgeRank3Desc"/>
+			<effect_description level="4" desc_key="perkHammerForgeRank4Desc"/>
+			<!--<effect_description level="5" desc_key="perkHammerForgeRank5Desc"/>-->
+		</effect_group>
+	</perk>
+				
+    </append>
+</configs>

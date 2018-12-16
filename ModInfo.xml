@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+    <ModInfo>
+        <Name value="BunzCore" />
+        <Description value="Core Mod for All of the Bunz Modlets Includes all items and textures.. Easy Integration" />
+        <Author value="SnuggleBunz" />
+        <Version value="0.0.1" />
+    </ModInfo>
+</xml>

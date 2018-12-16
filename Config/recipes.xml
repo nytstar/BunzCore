@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<configs>
+    <append xpath="/recipes">
+		
+		
+		<!-- Workstation -->
+<recipe name="circutBoard" count="10" craft_area="chemistryStation">
+ 	<ingredient name="resourceCopper" count="1"/>
+	<ingredient name="thermalPaste" count="2"/>
+</recipe>
+		<!-- Forge -->
+		
+		
+		
+ 
+		
+
+		
+		<!-- Chemistry Recipes -->
+<recipe name="resourceSand" count="10" craft_area="chemistryStation">
+ 	<ingredient name="resourceSilicon" count="5"/>
+	<ingredient name="resourceOxygen" count="5"/>
+</recipe>
+		
+<recipe name="resourceGlass" count="10" craft_area="chemistryStation">
+ 	<ingredient name="resourceSilicon" count="1"/>
+	<ingredient name="resourceOxygen" count="2"/>
+</recipe>
+		
+<recipe name="resourceWater" count="10" craft_area="chemistryStation">
+	<ingredient name="resourceHydrogen" count="1"/>
+	<ingredient name="resourceOxygen" count="2"/>
+</recipe>
+		
+<recipe name="thermalPaste" count="10" craft_area="chemistryStation">
+	<ingredient name="resourceHydrogen" count="1"/>
+	<ingredient name="resourceOxygen" count="2"/>
+ </recipe>
+
+		
+		
+    </append>
+</configs>
